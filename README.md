@@ -1,6 +1,6 @@
 # Angela Sio's Portfolio
 
-## [About Me]
+## [About Me](https://sneezly-seal.github.io/About-Me/)
 
 ### [SQL Project ] 
 
