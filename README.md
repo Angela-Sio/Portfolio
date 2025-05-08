@@ -4,12 +4,12 @@
 
 ### [SQL Project ] 
 
- "Coming Soon"
+ Coming Soon....
 
 ### [Capstone Project] 
  
- "Coming Soon"
+ Coming Soon....
 
 ### [Excel Project] 
 
- "Coming Soon"
+ Coming Soon....
